@@ -1,0 +1,15 @@
+inicio>
+RF:
+Entero: a;
+Entero: b;
+Entero: c;
+Mostrar: Ingrese El Valor Para a;
+Leer: a=:9;
+Leer: b=:5;
+Si: a Maq b;
+c=: a Mas b;
+Contrario:
+b Menos a;
+Mostrar: c;
+<Fin
+
